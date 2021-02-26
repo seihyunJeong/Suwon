@@ -1,0 +1,5 @@
+{
+	"url": "https://api.keepa.com/deal?",
+	"delimeter": "deals",
+	"subDelimeter": "dr"
+}

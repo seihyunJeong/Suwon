@@ -1,0 +1,4 @@
+{
+	"create": "/api/keepa/request-products",
+	"findAll": "/api/keepa/request-products"
+}

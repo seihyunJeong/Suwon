@@ -1,0 +1,4 @@
+{
+	"create": "/api/keepa/browsing-deals",
+	"findAll": "/api/keepa/browsing-deals"
+}

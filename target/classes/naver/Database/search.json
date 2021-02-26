@@ -1,0 +1,4 @@
+{
+	"create": "/api/naver/search",
+	"findAll": "/api/naver/search"
+}
